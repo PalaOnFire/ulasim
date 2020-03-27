@@ -100,6 +100,26 @@
           "id" : 21,
           "saat": "Haftaiçi:06:45 –başlar her çeğreklerde Son Tur:19:45 Ten İtibaren Saatte Bir 19:45 20:45,21:45,23:00",
           "güzergah": "Belediye İş Hanı Önü – Camlı Camii -Eski Hal -Hacılar Çeşmesi – Koç Cam – Turan Nakliyat – Mevlana Camii – Ali Haydar Albayrak İ.O - Otuz Evler – 156.Cadde – IYAŞPARK AVM -Otogar – Orman Bölge Müdürlüğü – Özkanlar – Şehir Hastanesi-İstasyon-Çarşı"
+        },
+        {
+          "id" : 22,
+          "saat": "Saat:06:50: başlar 10 kala 20 geçe olarak devam eder. ",
+          "güzergah": "Iyaş otelin yan tarafından kalkar"
+        },
+        {
+          "id" : 25,
+          "saat": "Haftaiçi:06:30-23:30 Her yarım saatte çalışır",
+          "güzergah": "Tuhafiyeciler Sitesi Önü – Demirköprü – Gülkent lisesi-sehitlik-köy garajı-hafız ibrahim demiralay i.ö.o.-çevreyolu – ekomar – aquapark-belmaş – demirköprü – aksu caddesi – orduevi – ptt – belediye işhanı -camlı camii – devlet hastanesi – çarşı "
+        },
+        {
+          "id" : 29,
+          "saat": "Haftaiçi:06:30-23:30 Her yarım saatte devam eder.",
+          "güzergah": "Tuhafiyeciler Sitesi – Demiköprü-Belmaş-Köy Garajı Üstü- Karaağaç Sosyal Tesisleri – Cezaevi – Davraz Cevre Yolu – Üstgeçitten Davraz Taksi- Karaağaç Pazarı – Çarşı"
+        },
+        {
+          "id" : 30,
+          "saat": "Haftaiçi:06:30-23:30 Her yarım saatte devam eder.",
+          "güzergah": "Belediye İş Hanı Önü – Camlı Camii – Eski Hal – Hacılar Çeşmesi – Emek Taksi – Cuma Pazarı  – Zafer Erkek Öğrenci Yurdu  – Medine Camii – 218 Cadde – Deregüme Caddesi – 216 Cadde – 214 Cadde -212 Cadde -Cuma Pazarı – Otogar – Orman Bölge Müdürlüğü – Özkanlar  -Şehir hastanesi-İstasyon – Çarşı"
         }
       ]
 }
