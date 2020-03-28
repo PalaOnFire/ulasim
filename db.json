@@ -1,9 +1,9 @@
 {
     "ulasim":[
         {
-          "id" : "1 NUMARALI HAT",
-          "saat": "06:45 te başlar çeğrek geçe çeğrek kala 22:45 kadar her yarım saat tuafiyrciler sitesi önünden kalkar son tur 23:30 Cumartesi:07:15-23:30 arası Pazar 07:45-23:30.",
-          "güzergah": "Tuhafiyeciler Sitesi- 6 Mart Caddesi- Otogar – Adliye-Mesut Gıda-Zafer Kız Yurdu-Mehmet Akif İlkokulu-Cuma Pazarı-Koç Cam-Çarşı"
+          "id1" : "1 NUMARALI HAT",
+          "saat1": "06:45 te başlar çeğrek geçe çeğrek kala 22:45 kadar her yarım saat tuafiyrciler sitesi önünden kalkar son tur 23:30 Cumartesi:07:15-23:30 arası Pazar 07:45-23:30.",
+          "guzergah": "Tuhafiyeciler Sitesi- 6 Mart Caddesi- Otogar – Adliye-Mesut Gıda-Zafer Kız Yurdu-Mehmet Akif İlkokulu-Cuma Pazarı-Koç Cam-Çarşı"
         },
         {
           "id" : "2 NUMARALI HAT",
