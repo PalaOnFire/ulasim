@@ -1,123 +1,103 @@
 {
     "ulasim":[
         {
-          "id" : "1 NUMARALI HAT",
-          "no1" : "1 NUMARALI HAT",
-          "saat1": "06:45 te başlar çeğrek geçe çeğrek kala 22:45 kadar her yarım saat tuafiyrciler sitesi önünden kalkar son tur 23:30 Cumartesi:07:15-23:30 arası Pazar 07:45-23:30.",
-          "guzergah1": "Tuhafiyeciler Sitesi- 6 Mart Caddesi- Otogar – Adliye-Mesut Gıda-Zafer Kız Yurdu-Mehmet Akif İlkokulu-Cuma Pazarı-Koç Cam-Çarşı"
+          "id" : "1 NUMARALI HAT",          
+          "saat": "06:45 te başlar çeğrek geçe çeğrek kala 22:45 kadar her yarım saat tuafiyrciler sitesi önünden kalkar son tur 23:30 Cumartesi:07:15-23:30 arası Pazar 07:45-23:30.",
+          "guzergah": "Tuhafiyeciler Sitesi- 6 Mart Caddesi- Otogar – Adliye-Mesut Gıda-Zafer Kız Yurdu-Mehmet Akif İlkokulu-Cuma Pazarı-Koç Cam-Çarşı"
         },
         {
-          "id" : "2 NUMARALI HAT",
-          "no2" : "2 NUMARALI HAT",
-          "saat2": "07:30--08:00-08:30-09:00’dan 19:00’a kadar saatte bir 19:00-23:30 arası her yarım saatte ve buçuklarda Ufuk talebe çevre yolundan geçer.Saat başları gündüz saat başı gibi 2 numara gibi dolaşır.Şehie Hastanesine iner. Cumartesi işe başlama saati 10:00 Pazar: 10:00’den itibaren her saat başı, akşamları 19:00-19:30-20:30-21:30-22:30-23:30",
-          "guzergah2": "Tuhafiyeciler Sitesi-Stadyum-Yeni Sanayi-Burç Fırın-Anadolu Meydan- Diş hastanesi Şehir Hastanesi Maliye Çarşı"
+          "id" : "2 NUMARALI HAT",          
+          "saat": "07:30--08:00-08:30-09:00’dan 19:00’a kadar saatte bir 19:00-23:30 arası her yarım saatte ve buçuklarda Ufuk talebe çevre yolundan geçer.Saat başları gündüz saat başı gibi 2 numara gibi dolaşır.Şehie Hastanesine iner. Cumartesi işe başlama saati 10:00 Pazar: 10:00’den itibaren her saat başı, akşamları 19:00-19:30-20:30-21:30-22:30-23:30",
+          "guzergah": "Tuhafiyeciler Sitesi-Stadyum-Yeni Sanayi-Burç Fırın-Anadolu Meydan- Diş hastanesi Şehir Hastanesi Maliye Çarşı"
         },
         {
-          "id" : "4 NUMARALI HAT",
-          "no4" : "4 NUMARALI HAT",
-          "saat4": "Hafta İçi 07:00 Başlar, 23:30 Kadar  Yoğunluğa Göre Saat Ayarlaması  Yapılarak Çalışır",
-          "guzergah4": "6 Mart Atatürk Caddesi Ana Durak – Özkanlar – Orman Bölge Müdürlüğü- Otogar – Yeni Emniyet Müdürlüğü – Kipa – Çünür Mahallesi – Batı Yerleşkesi. (Dönüş Geldiği İstikametin Tersi)"
+          "id" : "4 NUMARALI HAT",          
+          "saat": "Hafta İçi 07:00 Başlar, 23:30 Kadar  Yoğunluğa Göre Saat Ayarlaması  Yapılarak Çalışır",
+          "guzergah": "6 Mart Atatürk Caddesi Ana Durak – Özkanlar – Orman Bölge Müdürlüğü- Otogar – Yeni Emniyet Müdürlüğü – Kipa – Çünür Mahallesi – Batı Yerleşkesi. (Dönüş Geldiği İstikametin Tersi)"
         },
         {
-          "id" : "5 NUMARALI HAT",
-          "no5" : "4 NUMARALI HAT",
-          "saat5": "Hafta İçi 07:00 Başlar,23:30 Kadar Her Yarım Saatte Devam Eder Sadece Pazar 07:30 Başlar.",
-          "guzergah5": "Belediye İş Hanı Önü-Asri Mezarlık-Borsa Okulu-Binbirevler Fırını-Efe Gazinosu-Yeni Yılmazlar-Özkanlar-Çarşı"
+          "id" : "5 NUMARALI HAT",          
+          "saat": "Hafta İçi 07:00 Başlar,23:30 Kadar Her Yarım Saatte Devam Eder Sadece Pazar 07:30 Başlar.",
+          "guzergah": "Belediye İş Hanı Önü-Asri Mezarlık-Borsa Okulu-Binbirevler Fırını-Efe Gazinosu-Yeni Yılmazlar-Özkanlar-Çarşı"
         },
         
         {
-          "id" : "6 NUMARALI HAT",
-          "no6" : "6 NUMARALI HAT",
-          "saat6": "Hafta İçi 06:45 Başlar,19:15 Kadar Her Çeyrek Geçe ve Çeyrek Kalalarda Devam Eder. Cumartesi 07:15, Pazar 07:45 Başlar.",
-          "guzergah6": "Belediye İşhanı Önü – Camlı Cami –Eski Hal - Asri Mezarlık – Merko –  Ümraniye Sit. – Sezer Mehmet ALDAN Anaokulu – Mavikent İ.O – Çelik Sitesi – Batıkent Camii – Eda Sitesi –  Can Kardeşler Petrol – ISPAŞ – M.Türkeş Mahallesi – Zafer Sağlık Ocağı  Deregüme Kavşağı – IYAŞPARK AVM – Otogar – Orman Bölge Müdürlüğü – Özkanlar Kavşağı -Şehir hastanesi – istasyon cad.-çarşı"
+          "id" : "6 NUMARALI HAT",          
+          "saat": "Hafta İçi 06:45 Başlar,19:15 Kadar Her Çeyrek Geçe ve Çeyrek Kalalarda Devam Eder. Cumartesi 07:15, Pazar 07:45 Başlar.",
+          "guzergah": "Belediye İşhanı Önü – Camlı Cami –Eski Hal - Asri Mezarlık – Merko –  Ümraniye Sit. – Sezer Mehmet ALDAN Anaokulu – Mavikent İ.O – Çelik Sitesi – Batıkent Camii – Eda Sitesi –  Can Kardeşler Petrol – ISPAŞ – M.Türkeş Mahallesi – Zafer Sağlık Ocağı  Deregüme Kavşağı – IYAŞPARK AVM – Otogar – Orman Bölge Müdürlüğü – Özkanlar Kavşağı -Şehir hastanesi – istasyon cad.-çarşı"
         },
         {
-          "id" : "7 NUMARALI HAT",
-          "no7" : "7 NUMARALI HAT",
-          "saat7": "Haftaiçi: 06:45 – başlar91:15 kadar her çegrekte OTOGAR YEDİŞEHİTLER olarak devam eder",
-          "guzergah7": "Tuhafiyeciler Sitesi – Subay Lojmanları – Otogar – Cuma Pazarı – Turan Nakliyat – Koç Cam – Eski Hal – Devlet Hastahanesi – Çarşı"
+          "id" : "7 NUMARALI HAT",          
+          "saat": "Haftaiçi: 06:45 – başlar91:15 kadar her çegrekte OTOGAR YEDİŞEHİTLER olarak devam eder",
+          "guzergah": "Tuhafiyeciler Sitesi – Subay Lojmanları – Otogar – Cuma Pazarı – Turan Nakliyat – Koç Cam – Eski Hal – Devlet Hastahanesi – Çarşı"
         },
         {
-          "id" : "8 NUMARALI HAT",
-          "no8" : "8 NUMARALI HAT",
-          "saat8": "Hafta İçi 07:20 Başlar,17:00 Kadar Iyaş otelin yan tarafından kalkmaktadır.",
-          "guzergah8": "Otel Isparta Altı – Zübeyde Hanım Caddesi – Belediye – Subay  Lojmanları – Otogar – Yeni Emniyet Müdürlüğü – Kolçelik Kavşağı – Kipa  Çünür – Tıp Fakultesi – Orman Fakultesi – Üniversite Kavşağı – Çünür  Polis Karakolu – Özkanlar – Polat Otel  - Çarşı – Camlı Cami – Devlet Hastahanesi"
+          "id" : "8 NUMARALI HAT",          
+          "saat": "Hafta İçi 07:20 Başlar,17:00 Kadar Iyaş otelin yan tarafından kalkmaktadır.",
+          "guzergah": "Otel Isparta Altı – Zübeyde Hanım Caddesi – Belediye – Subay  Lojmanları – Otogar – Yeni Emniyet Müdürlüğü – Kolçelik Kavşağı – Kipa  Çünür – Tıp Fakultesi – Orman Fakultesi – Üniversite Kavşağı – Çünür  Polis Karakolu – Özkanlar – Polat Otel  - Çarşı – Camlı Cami – Devlet Hastahanesi"
         },
         {
-          "id" : "9 NUMARALI HAT",
-          "no9" : "9 NUMARALI HAT",
-          "saat9": "Hafta İçi ve Cumartesi 07:00′de  Başlar,23:30′a Kadar Her Yarım Saatte Devam Eder",
-          "guzergah9": "Tuhafiyeciler Sitesi önü – Zübeyde Hanım Caddesi – Belediye – Subay Lojmanları – Otogar – Yeni Emniyet Müdürlüğü – Kolçelik Kavşağı – Meddem Hastanesi -Diyanet Kız Yurdu – TOKİ – Çünür Mahallesi – Tıp Fakultesi -Orman akultesi – Üniversite Kavşağı – Çünür Polis Karakolu - otogar- Şehie hastanesi -istasyon-çarşı"
+          "id" : "9 NUMARALI HAT",          
+          "saat": "Hafta İçi ve Cumartesi 07:00′de  Başlar,23:30′a Kadar Her Yarım Saatte Devam Eder",
+          "guzergah": "Tuhafiyeciler Sitesi önü – Zübeyde Hanım Caddesi – Belediye – Subay Lojmanları – Otogar – Yeni Emniyet Müdürlüğü – Kolçelik Kavşağı – Meddem Hastanesi -Diyanet Kız Yurdu – TOKİ – Çünür Mahallesi – Tıp Fakultesi -Orman akultesi – Üniversite Kavşağı – Çünür Polis Karakolu - otogar- Şehie hastanesi -istasyon-çarşı"
         },
         {
-          "id" : "10 NUMARALI HAT",
-          "no10" : "10 NUMARALI HAT",
-          "saat10": "Haftaiçi: 06:40 Çelik Son Tur:23:10 Çıraklık Son Tur:18:40 umartesi: 07:10 Çelik Son Tur:23:10 Çıraklık Son Tur:18:40 azar: 07:40 Çelik Son Tur:23:10 Çıraklık Son Tur:18:40",
-          "guzergah10": "Beldiye İşhanı-Bilim Tıp-Gölcük Yolu-Isbaş-Yağmur Sitesi-Asilevler-Gülistan Karakolu-Çarşı-Stadyum-Çıraklık Okulu-Anadolu Meydan-Çevre Yolu-Kolçelik-Emniyet-Otogar-Çarşı"
+          "id" : "10 NUMARALI HAT",          
+          "saat": "Haftaiçi: 06:40 Çelik Son Tur:23:10 Çıraklık Son Tur:18:40 umartesi: 07:10 Çelik Son Tur:23:10 Çıraklık Son Tur:18:40 azar: 07:40 Çelik Son Tur:23:10 Çıraklık Son Tur:18:40",
+          "guzergah": "Beldiye İşhanı-Bilim Tıp-Gölcük Yolu-Isbaş-Yağmur Sitesi-Asilevler-Gülistan Karakolu-Çarşı-Stadyum-Çıraklık Okulu-Anadolu Meydan-Çevre Yolu-Kolçelik-Emniyet-Otogar-Çarşı"
         },
         {
-          "id" : "11 NUMARALI HAT",
-          "no11" : "11 NUMARALI HAT",
-          "saat11": "Hafta İçi: 06:50 Hızırbey Son Tur:19:30-20:00-20:30-21:00-21:30-22:00-22:30-23:00-23:30 Ufuk Talebe Son Tur:18:50",
-          "guzergah11": "Belediye İş Hanı Önü-Sağlık Myo-Naşide Halil Gelendost-Bedit Camii-Atabey Fırını-Türker Avm-Bilimkent Sitesi - Kule Sitesi -  Kilit Sitesi-Murat Dede Camii-Nazmi Toker-Çarşı-6 Mart-Otogar-Modernevler-Çevre Yolu-Anadolu Meydan-Keresteciler- Şehir Hastanesi -İstasyon-Çarşı"
+          "id" : "11 NUMARALI HAT",          
+          "saat": "Hafta İçi: 06:50 Hızırbey Son Tur:19:30-20:00-20:30-21:00-21:30-22:00-22:30-23:00-23:30 Ufuk Talebe Son Tur:18:50",
+          "guzergah1": "Belediye İş Hanı Önü-Sağlık Myo-Naşide Halil Gelendost-Bedit Camii-Atabey Fırını-Türker Avm-Bilimkent Sitesi - Kule Sitesi -  Kilit Sitesi-Murat Dede Camii-Nazmi Toker-Çarşı-6 Mart-Otogar-Modernevler-Çevre Yolu-Anadolu Meydan-Keresteciler- Şehir Hastanesi -İstasyon-Çarşı"
         },
         {
-          "id" : "12 NUMARALI HAT",
-          "no12" : "12 NUMARALI HAT",
-          "saat12": "Hafta İçi 07:45 Başlar,22:30 Kadar Yoğunluğa Göre aat Ayarlaması Yapılarak Çalışır.",
-          "guzergah12": "6 Mart Atatürk Caddesi – Ana Durak – Özkanlar – Orman Bölge Müdürlüğü – Otogar – Yeni Emniyet Müdürlüğü – Meddem Hastanesi – Çünür Mahallesi Kapalı Spor Salonu – Orman Fakültesi – Doğu Yerleşkesi .(Dönüş Geldiği İstikametin Tersi)"
+          "id" : "12 NUMARALI HAT",          
+          "saat": "Hafta İçi 07:45 Başlar,22:30 Kadar Yoğunluğa Göre aat Ayarlaması Yapılarak Çalışır.",
+          "guzergah": "6 Mart Atatürk Caddesi – Ana Durak – Özkanlar – Orman Bölge Müdürlüğü – Otogar – Yeni Emniyet Müdürlüğü – Meddem Hastanesi – Çünür Mahallesi Kapalı Spor Salonu – Orman Fakültesi – Doğu Yerleşkesi .(Dönüş Geldiği İstikametin Tersi)"
         },
         {
-          "id" : "13 NUMARALI HAT",
-          "no13" : "13 NUMARALI HAT",
-          "saat13": "Haftaiçi: 07:20-18:50",
-          "guzergah13": "Müftülük Önü -Gülevler-Halıkent-Alt yol-Miğros- Ayazmana mesireliği- Ortayol-Ayazmana-Demirköprü-Aksu Caddesi-Çarşı"
+          "id" : "13 NUMARALI HAT",          
+          "saat": "Haftaiçi: 07:20-18:50",
+          "guzergah": "Müftülük Önü -Gülevler-Halıkent-Alt yol-Miğros- Ayazmana mesireliği- Ortayol-Ayazmana-Demirköprü-Aksu Caddesi-Çarşı"
         },
         {
-          "id" : "14 NUMARALI HAT",
-          "no14" : "14 NUMARALI HAT",
-          "saat14": "Her Gün 07:15-18:15",
-          "guzergah14": "Müftülük Önü-Gülevler-Ortayol-Ayazmana-Yıldızhan-Vatan--Fatih Kuran Kursu-Köy Garajı-İstasyon-6 Mart-Otogar-Anadolu Meydan-Yıldırım Şekerleme-Adliye-Fatih-Selehattin Seçkin İlkokulu - Zafer-Deregümü Yolu-Turan Nakliyat-Eski Hal-Çarşı"
+          "id" : "14 NUMARALI HAT",          
+          "saat": "Her Gün 07:15-18:15",
+          "guzergah": "Müftülük Önü-Gülevler-Ortayol-Ayazmana-Yıldızhan-Vatan--Fatih Kuran Kursu-Köy Garajı-İstasyon-6 Mart-Otogar-Anadolu Meydan-Yıldırım Şekerleme-Adliye-Fatih-Selehattin Seçkin İlkokulu - Zafer-Deregümü Yolu-Turan Nakliyat-Eski Hal-Çarşı"
         },
         {
-          "id" : "15 NUMARALI HAT",
-          "no15" : "15 NUMARALI HAT",
-          "saat15": "Hafta İçi:06:30-23:30",
-          "guzergah15": "Belediye İşhanı Önü-Sağlık Myo - Murat Dede-Yenice-Dere-Çarşı-Müftülük Önü-Gülevler - A 101-Vatan sosyal tesis- Yavuz Sitesi - Davrazkent - Mehmet Özkan Camii-Fatih Kuran Kursu - Gülevler - Opet - Demirköprü - Belediye İşhanı Önü"
+          "id" : "15 NUMARALI HAT",          
+          "saat": "Hafta İçi:06:30-23:30",
+          "guzergah": "Belediye İşhanı Önü-Sağlık Myo - Murat Dede-Yenice-Dere-Çarşı-Müftülük Önü-Gülevler - A 101-Vatan sosyal tesis- Yavuz Sitesi - Davrazkent - Mehmet Özkan Camii-Fatih Kuran Kursu - Gülevler - Opet - Demirköprü - Belediye İşhanı Önü"
         },
         {
-          "id" : "16 NUMARALI HAT",
-          "no16" : "16 NUMARALI HAT",
-          "saat16": "Haftaiçi:06:45 – 19:15-20:00-21:00-22:00-23:00",
-          "guzergah16": "Belediye İşhanı Önü – Camlı Cami – Devlet Hastahanesi Altı – Gökçay Kavşağı – Emre Çevre Yolu – Sidre Mahallesi – Halıkent Ekmek Fırını Gülcü Mezarlığı – Gülcü Meydanı – Emre Meydanı – Çayboyu – Kesikbaş - Hisar Mahallesi – Demir Köprü – Aksu Caddesi – PTT – Çarşı"
+          "id" : "16 NUMARALI HAT",          
+          "saat": "Haftaiçi:06:45 – 19:15-20:00-21:00-22:00-23:00",
+          "guzergah": "Belediye İşhanı Önü – Camlı Cami – Devlet Hastahanesi Altı – Gökçay Kavşağı – Emre Çevre Yolu – Sidre Mahallesi – Halıkent Ekmek Fırını Gülcü Mezarlığı – Gülcü Meydanı – Emre Meydanı – Çayboyu – Kesikbaş - Hisar Mahallesi – Demir Köprü – Aksu Caddesi – PTT – Çarşı"
         },
         {
-          "id" : "17 NUMARALI HAT",
-          "no17" : "17 NUMARALI HAT",
-          "saat17": "Haftaiçi ölyaşa Gidecek Araç: 06:50 – 23:20 alıkente Gidicek Araç: 06:30 – 23:30",
-          "guzergah17": "Belediye İşhanı Önü-Bilim Tıp-Asri Mezarlık-Yağmur Sitesi-Binbirevler Fırını-Mavikent Camii-Gölyaş Avm-Musera Market-Naciye Hanım Konakları-Asri Mezarlık-Gülistan Karakolu- Çarşı-Müftülük Önü - Gülevler-Tria-Orta yol-Ayazmana mesireliği- Alt yol- Demirköprü - Aksu Caddesi-Çarşı"
+          "id" : "17 NUMARALI HAT",          
+          "saat": "Haftaiçi ölyaşa Gidecek Araç: 06:50 – 23:20 alıkente Gidicek Araç: 06:30 – 23:30",
+          "guzergah": "Belediye İşhanı Önü-Bilim Tıp-Asri Mezarlık-Yağmur Sitesi-Binbirevler Fırını-Mavikent Camii-Gölyaş Avm-Musera Market-Naciye Hanım Konakları-Asri Mezarlık-Gülistan Karakolu- Çarşı-Müftülük Önü - Gülevler-Tria-Orta yol-Ayazmana mesireliği- Alt yol- Demirköprü - Aksu Caddesi-Çarşı"
         },
         {
-          "id" : "18 NUMARALI HAT",
-          "no18" : "18 NUMARALI HAT",
-          "saat18": "Haftaiçi:06:30-23:30",
-          "guzergah18": "Tuhafiyeciler Sitesi – Belediye – Subay Lojmanları – Otogar -mniyet Müdürlüğü – Kolçelik Kavşağı – Meddem Hastanesi – Çünür Bölge Trafik - Diyanet Erkek Öğrenci Yurdu – Mehmet Tönge Sağlık Ocağı – Mehmet Köse İ.O -  Kayı Köyü Caddesi – Engelliler  Okulu – Ünikent – Merkez Durak – AYNI İSTİKAMETTE GERİ DÖNER.Şehir Hastanesi-İstasyon-Çarşı"
+          "id" : "18 NUMARALI HAT",          
+          "saat": "Haftaiçi:06:30-23:30",
+          "guzergah": "Tuhafiyeciler Sitesi – Belediye – Subay Lojmanları – Otogar -mniyet Müdürlüğü – Kolçelik Kavşağı – Meddem Hastanesi – Çünür Bölge Trafik - Diyanet Erkek Öğrenci Yurdu – Mehmet Tönge Sağlık Ocağı – Mehmet Köse İ.O -  Kayı Köyü Caddesi – Engelliler  Okulu – Ünikent – Merkez Durak – AYNI İSTİKAMETTE GERİ DÖNER.Şehir Hastanesi-İstasyon-Çarşı"
         },
         {
-          "id" : "19 NUMARALI HAT",
-          "no19" : "19 NUMARALI HAT",
-          "saat19": "Haftaiçi:Tuafiyeciler sitesi önü:07:20 başlar 17:50 de çarşıdan son sefer ",
-          "güzergah19": "Köy Garajı Ana Durak – 105.Cadde – Tren İstasyonu – Karayolları - Gülkent Devlet Hastahanesi – Özkanlar – Belediye İş Hanı Önü – Tuhafiyeciler Sitesi – Demir Köprü – Opet İtfaiye – Özaydın Sitesi 3980 Sokak. – AQUAPARK – BETAŞ Köy Garajı Şehir hastanesine gider"
+          "id" : "19 NUMARALI HAT",          
+          "saat": "Haftaiçi:Tuafiyeciler sitesi önü:07:20 başlar 17:50 de çarşıdan son sefer ",
+          "güzergah": "Köy Garajı Ana Durak – 105.Cadde – Tren İstasyonu – Karayolları - Gülkent Devlet Hastahanesi – Özkanlar – Belediye İş Hanı Önü – Tuhafiyeciler Sitesi – Demir Köprü – Opet İtfaiye – Özaydın Sitesi 3980 Sokak. – AQUAPARK – BETAŞ Köy Garajı Şehir hastanesine gider"
         },
         {
-          "id" : "20 NUMARALI HAT",
-          "no20" : "20 NUMARALI HAT",
+          "id" : "20 NUMARALI HAT",          
           "saat": "Haftaiçi: 06:45 başlar 17:35 Diş hastanesinden son sefere çıkar saatte bir çalışır",
           "güzergah": "Müftülük Önü - Fatih Kuran Kursu - Davraz Kent - Ayazmana Mesireliği - Halıkent Ortayol - Halıkent Ekmek Fırını - Emre-Sidre- Gökçay Kavşağı - Çarşı - Özkanlar - Diş hastanesi- Şehir Hastanesi -Özkanlar - Belediye - Müftülük"
         },
         {
-          "id" : "25 NUMARALI HAT",
-          "no25" : "25 NUMARALI HAT",
+          "id" : "25 NUMARALI HAT",          
           "saat": "Haftaiçi:06:30-23:30 Her yarım saatte çalışır",
           "güzergah": "Tuhafiyeciler Sitesi Önü – Demirköprü – Gülkent lisesi-sehitlik-köy garajı-hafız ibrahim demiralay i.ö.o.-çevreyolu – ekomar – aquapark-belmaş – demirköprü – aksu caddesi – orduevi – ptt – belediye işhanı -camlı camii – devlet hastanesi – çarşı "
         }
